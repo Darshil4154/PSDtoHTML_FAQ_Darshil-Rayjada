@@ -1,2 +1,2 @@
-# PSDtoHTML_FAQ_Darshil-Rayjada
-this is 2nd page FAQ of PSD to HTML
+# Helperland - FAQ Page 2nd Assignment/Task Made By Darshil Rayjada
+ 
